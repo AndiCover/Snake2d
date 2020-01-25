@@ -1,0 +1,5 @@
+c:\users\terror\documents\visual studio 2010\Projects\Game\Game\GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\New folder\Game\Game\GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programmieren\Games\Game\Game\GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programmieren\Games\XNA\Game\Game\GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programmieren\Programme\C#\Games\XNA\Game\Game\GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
